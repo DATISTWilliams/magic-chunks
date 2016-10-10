@@ -1,11 +1,11 @@
 {
     "manifestVersion": 1,
-    "id": "magic-chunks",
-    "version": "1.0.0",
-    "name": "Magic Chunks",
+    "id": "magic-chunks2",
+    "version": "1.1.0",
+    "name": "Magic Chunky Chunks",
     "description": "Easy to use tool to config transformations for JSON, XML and YAML.",
-    "publisher": "sergeyzwezdin",
-    "public": true,
+    "publisher": "traviswilliams",
+    "public": false,
     "icons": {
         "default": "images/icon.png",
         "large": "images/icon-large.png"
@@ -47,7 +47,7 @@
     ],
     "contributions": [
         {
-            "id": "magic.chunks",
+            "id": "magic.chunks2",
             "type": "ms.vss-distributed-task.task",
             "description": "Config transform with Magic Chunks",
             "targets": [

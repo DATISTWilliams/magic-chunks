@@ -1,7 +1,7 @@
 ﻿{
-  "id": "985284E0-A7D2-4E4D-802C-0A516BFFAADF",
+  "id": "7a972497-68bb-44aa-8205-c94fb7eb5bff",
   "name": "MagicChunks",
-  "friendlyName": "Config transformation",
+  "friendlyName": "Configy transformations",
   "description": "Transform config file with Magic Chunks",
   "helpMarkDown": "[More Information](https://github.com/sergeyzwezdin/magic-chunks)",
   "category": "Utility",
@@ -12,7 +12,7 @@
   "author": "Sergey Zwezdin",
   "version": {
     "Major": 1,
-    "Minor": 0,
+    "Minor": 1,
     "Patch": 0
   },
   "demands": [
